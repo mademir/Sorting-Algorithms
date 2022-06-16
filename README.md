@@ -1,4 +1,4 @@
-# Sorting-Algorithms
+# Sorting-Algorithms C++
 Bubble Sort, Quick Sort and Binary Tree sorting demonstrated on playing cards.
 
 Functions for creating random cards were imported and the algorithms and binary tree were built for those playing cards.  
